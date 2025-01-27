@@ -5,7 +5,7 @@ With more than 7 years of professional experience and certified in UI, UX and Fr
 
 It is my specialty to do User Experience Planning, User Interface Design, Wire framing and prototyping, and Website design. I really love to do any challenging work that helps me and my workplace to move on to new success invention. I also passionate to work with new technology and try to invent unique awesome.
 
-Skills: HTML5, CSS3, SASS, JavaScript, jQuery, React, Asp.net Front-End, C#, PHP
+Skills: HTML5, CSS3, SASS, JavaScript, jQuery, React, Asp.net Front-End, C#
 
 - 🔭 I’m currently working on data edge ltd. 
 - 🌱 I’m currently learning JavaScript, React 
